@@ -55,15 +55,15 @@ User should be able to see any eidt/delete to an transaction updated in the char
 
 Areas to test| Priority
 ------------ | -------------
-User should be able to edit an Income entry (USD, Note, Category) | P0
-User should be able to edit an Expense entry (USD, Note, Category) | P0
-User should be able to edit an Trasfer entry (USD, Note, Category) | P0
+User should be able to update an Income entry (USD, Note, Category) | P0
+User should be able to update an Expense entry (USD, Note, Category) | P0
+User should be able to update an Trasfer entry (USD, Note, Category) | P0
 User should be able to Delete an Income entry (USD, Note, Category) | P0
 User should be able to Delete an Expense entry (USD, Note, Category) | P0
 User should be able to Delete an Trasfer entry (USD, Note, Category) | P0
 
 
-**5. Accounts Interaction**
+**Accounts Interaction**
 
 Areas to test| Priority
 ------------ | -------------
